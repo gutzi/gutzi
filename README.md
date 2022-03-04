@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Thanks for visiting!
+
 <!--
 **gutzi/gutzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
